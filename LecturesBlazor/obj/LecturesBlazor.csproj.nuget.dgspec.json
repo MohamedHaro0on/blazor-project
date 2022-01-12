@@ -1,0 +1,102 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Faculty\\4th year first semester\\Web informtion system\\LecturesBlazor V3\\LecturesBlazor\\LecturesBlazor.csproj": {}
+  },
+  "projects": {
+    "E:\\Faculty\\4th year first semester\\Web informtion system\\LecturesBlazor V3\\Datalayer\\Datalayer.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\Faculty\\4th year first semester\\Web informtion system\\LecturesBlazor V3\\Datalayer\\Datalayer.csproj",
+        "projectName": "Datalayer",
+        "projectPath": "E:\\Faculty\\4th year first semester\\Web informtion system\\LecturesBlazor V3\\Datalayer\\Datalayer.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "E:\\Faculty\\4th year first semester\\Web informtion system\\LecturesBlazor V3\\LecturesBlazor\\LecturesBlazor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Faculty\\4th year first semester\\Web informtion system\\LecturesBlazor V3\\LecturesBlazor\\LecturesBlazor.csproj",
+        "projectName": "LecturesBlazor",
+        "projectPath": "E:\\Faculty\\4th year first semester\\Web informtion system\\LecturesBlazor V3\\LecturesBlazor\\LecturesBlazor.csproj",
+        "packagesPath": "C:\\Users\\Mohamed Haroon\\.nuget\\packages\\",
+        "outputPath": "E:\\Faculty\\4th year first semester\\Web informtion system\\LecturesBlazor V3\\LecturesBlazor\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mohamed Haroon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\Faculty\\4th year first semester\\Web informtion system\\LecturesBlazor V3\\Datalayer\\Datalayer.csproj": {
+                "projectPath": "E:\\Faculty\\4th year first semester\\Web informtion system\\LecturesBlazor V3\\Datalayer\\Datalayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "BlazorInputFile": {
+              "target": "Package",
+              "version": "[0.2.0, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

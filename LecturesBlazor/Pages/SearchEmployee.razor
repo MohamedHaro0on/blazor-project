@@ -1,0 +1,46 @@
+﻿@page "/SearchEmployee";
+@inject Datalayer.DataModels.IDataBaseOperations db ;
+
+
+<h3>SearchEmployee</h3>
+
+        <div class="form-group col-6">
+            <input class="form-control" @bind-value="searchTerm"></input>
+            <button class="btn btn-primary" @onclick="searchHandler"> search </button>
+        </div>
+
+    @if (!(empList is null))
+    {
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">id</th>
+                    <th scope="col">name</th>
+                    <th scope="col">address</th>
+                    <th scope="col">photo_path</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var emp in empList)
+                {
+                    <tr>
+                        <td> @emp.emp_id</td>
+                        <td> @emp.emp_name</td>
+                        <td> @emp.emp_address</td>
+                        <td> @emp.emp_photo_path</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+
+    @code {
+        string searchTerm;
+        List<Datalayer.DataModels.Employee> empList;
+
+
+        public async Task searchHandler()
+        {
+            empList = await db.GetEmployeeByName(searchTerm);
+        }
+    }

@@ -1,0 +1,173 @@
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\LecturesBlazor.exe
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\LecturesBlazor.deps.json
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\LecturesBlazor.runtimeconfig.json
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\LecturesBlazor.runtimeconfig.dev.json
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\LecturesBlazor.dll
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\LecturesBlazor.pdb
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\LecturesBlazor.Views.dll
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\LecturesBlazor.Views.pdb
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.csprojAssemblyReference.cache
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.AssemblyInfoInputs.cache
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.AssemblyInfo.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.csproj.CoreCompileInputs.cache
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.RazorComponent.input.cache
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Employees.razor.g.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.RazorComponent.output.cache
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\LecturesBlazor.dll
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.TagHelpers.input.cache
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.TagHelpers.output.cache
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.RazorCoreGenerate.cache
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\Razor\Pages\Employees.razor.g.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.RazorAssemblyInfo.cache
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.RazorAssemblyInfo.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\staticwebassets\LecturesBlazor.StaticWebAssets.Manifest.cache
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\staticwebassets\LecturesBlazor.StaticWebAssets.xml
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\scopedcss\bundle\LecturesBlazor.styles.css
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.RazorTargetAssemblyInfo.cache
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.RazorTargetAssemblyInfo.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.Views.pdb
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.dll
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.pdb
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.genruntimeconfig.cache
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.csproj.CopyComplete
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FCI.razor.g.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\Razor\Pages\FCI.razor.g.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\Datalayer.dll
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\Datalayer.pdb
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\Datalayer.dll.config
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EmpReg.razor.g.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\Razor\Pages\EmpReg.razor.g.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EMP_DB.razor.g.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\Razor\Pages\EMP_DB.razor.g.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EMPID.razor.g.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\Razor\Pages\EMPID.razor.g.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EMPname.razor.g.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\Razor\Pages\EMPname.razor.g.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\LecturesBlazor.StaticWebAssets.xml
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\bin\Debug\netcoreapp3.1\BlazorInputFile.dll
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddEmp.razor.g.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\UploadFileIn.razor.g.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\Razor\Pages\AddEmp.razor.g.cs
+C:\Users\Dr.Fahad\source\repos\LecturesBlazor\LecturesBlazor\obj\Debug\netcoreapp3.1\Razor\Pages\UploadFileIn.razor.g.cs
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\LecturesBlazor.StaticWebAssets.xml
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\LecturesBlazor.exe
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\LecturesBlazor.deps.json
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\LecturesBlazor.runtimeconfig.json
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\LecturesBlazor.runtimeconfig.dev.json
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\LecturesBlazor.dll
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\LecturesBlazor.pdb
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\LecturesBlazor.Views.dll
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\LecturesBlazor.Views.pdb
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\BlazorInputFile.dll
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\Dapper.dll
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\Datalayer.dll
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\Datalayer.pdb
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\bin\Debug\netcoreapp3.1\Datalayer.dll.config
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.csproj.AssemblyReference.cache
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.AssemblyInfoInputs.cache
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.AssemblyInfo.cs
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.csproj.CoreCompileInputs.cache
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.MvcApplicationPartsAssemblyInfo.cache
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.RazorComponent.input.cache
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.RazorComponent.output.cache
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\LecturesBlazor.dll
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.TagHelpers.input.cache
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.TagHelpers.output.cache
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.RazorCoreGenerate.cache
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.RazorAssemblyInfo.cache
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.RazorAssemblyInfo.cs
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\staticwebassets\LecturesBlazor.StaticWebAssets.Manifest.cache
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\staticwebassets\LecturesBlazor.StaticWebAssets.xml
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\scopedcss\bundle\LecturesBlazor.styles.css
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.RazorTargetAssemblyInfo.cache
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.RazorTargetAssemblyInfo.cs
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.Views.pdb
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.csproj.CopyComplete
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.dll
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.pdb
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\LecturesBlazor.genruntimeconfig.cache
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AllEmployees.razor.g.cs
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\Razor\Pages\AllEmployees.razor.g.cs
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\SearchEmployee.razor.g.cs
+E:\Faculty\4th year first semester\Web informtion system\LecturesBlazor V3\LecturesBlazor\obj\Debug\netcoreapp3.1\Razor\Pages\SearchEmployee.razor.g.cs

@@ -1,0 +1,43 @@
+﻿@page "/allEmployees";
+
+@inject Datalayer.DataModels.IDataBaseOperations db ;
+
+
+
+<h3> this is the all Employee Page </h3>
+<button class=" btn btn-primary" @onclick="LoadData"> Fetch Employees</button>
+
+@if (!(allEmps is null))
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th scope="col">id</th>
+                <th scope="col">name</th>
+                <th scope="col">address</th>
+                <th scope="col">photo_path</th>
+            </tr>
+        </thead>
+        <tbody>
+               @foreach(var emp in allEmps)
+                {
+                    <tr>
+                        <td> @emp.emp_id</td>
+                        <td> @emp.emp_name</td>
+                        <td> @emp.emp_address</td>
+                        <td> @emp.emp_photo_path</td>
+                    </tr>
+                }
+        </tbody>
+    </table>
+}
+
+@code {
+    List<Datalayer.DataModels.Employee> allEmps;
+
+    protected async Task LoadData()
+    {
+        allEmps = new List<Datalayer.DataModels.Employee>();
+        allEmps = await db.GetAllEmployees();
+    }
+}
